@@ -42,9 +42,6 @@ If you need to point at a specific directory inside a repository, use the table 
 
 When the wheel already contains files under `skills/`, files coming from the plugin override matching paths.
 
-
-This downloads the configured skills into `./skills`. Use `--output /path/to/dir` to choose another directory.
-
 ## Development
 
 Run tests with:
